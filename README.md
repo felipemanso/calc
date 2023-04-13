@@ -1,4 +1,3 @@
-# I'm learning python. I made a calculator with the operations of addition, subtraction, multiplication, division and rule of three.
 I'm learning python and I've written a simple calculator in Python that uses addition, subtraction, multiplication and division functions, as well as a simple rule of three.
 The user chooses the desired operation and types the numbers to be calculated.
 The clear_screen function uses the os module to clear the terminal screen.
